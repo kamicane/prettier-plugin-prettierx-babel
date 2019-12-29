@@ -1,5 +1,5 @@
 {
-  "name": "prettier-plugin-prettierx-babel",
+  "name": "@kamicane/prettier-plugin-prettierx-babel",
   "version": "0.0.1",
   "description": "TBD",
   "main": "index.js",
